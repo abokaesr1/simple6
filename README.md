@@ -1,0 +1,2 @@
+# simple6
+homework
